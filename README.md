@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Python爬取豆瓣电影top250 使用flask框架可视化数据
 
 ##项目技术栈：`Flask框架、Echarts、WordCloud、SQLite`
@@ -39,3 +40,6 @@
 
 ## 学习资料：[Python爬虫技术5天速成（2020全新合集）](https://www.bilibili.com/video/BV12E411A7ZQ)
 
+=======
+# Data_Visualization
+>>>>>>> 073f477a810cb432f041d445a83273d23525bfdf

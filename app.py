@@ -60,6 +60,9 @@ def score():
     return render_template("score.html",score=score,num=num,res=res,num2=num2,score2=score2)
     # return render_template("testshanxing.html",score=score,num=num,res=res,num2=num2,score2=score2)
 
+@app.route('/temp')
+def temp():
+    return render_template("temp.html")
 
 @app.route('/word')
 def word():
@@ -94,4 +97,4 @@ def mycombine(key,value):
     return data
 
 if __name__ == '__main__':
-    app.run()
+    app.run(port=5001)

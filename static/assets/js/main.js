@@ -1,6 +1,6 @@
 /**
-* Template Name: Lzz - v2.0.1
-* Template URL: https://bootstrapmade.com/Lzz-one-page-bootstrap-template-free/
+* Template Name: BZQ - v2.0.1
+* Template URL: https://bootstrapmade.com/BZQ-one-page-bootstrap-template-free/
 * Author: BootstrapMade.com
 * License: https://bootstrapmade.com/license/
 */
